@@ -1,152 +1,109 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Sathmi Peiris",
+    "email": "sathmipeiris@gmail.com",
+    "phone": "+94 76 730 1400",
+    "website": "https://sathmipeiris.github.io",
+    "summary": "Computer Engineering graduate interested in machine learning, computer vision, edge AI, robotics, and scientific machine learning.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Colombo",
+      "countryCode": "LK",
+      "region": "Sri Lanka"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "sathmipeiris",
+        "url": "https://github.com/sathmipeiris"
       }
     ]
   },
-  "work": [],
-  "education": [
+  "work": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "name": "The Open University of Sri Lanka",
+      "position": "Temporary Demonstrator",
+      "startDate": "2026-10",
+      "endDate": "",
+      "summary": "Facilitate practical sessions, instruct, and evaluate engineering students in software development, computer and communication engineering, data communications and networks, and data structures and algorithms."
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
+      "name": "Sri Lanka Institute of Information Technology",
+      "position": "Volunteer Research Assistant",
+      "startDate": "2026-09",
+      "endDate": "",
+      "summary": "Conduct computer vision research on thin-film degradation using Optical Coherence Tomography images."
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "name": "Sri Lanka Telecom PLC",
+      "position": "Trainee Full-Stack Developer & DevOps",
+      "startDate": "2025-04",
+      "endDate": "2025-10",
+      "summary": "Developed MERN-stack interfaces and APIs, managed MongoDB models, integrated PDF generation, and supported CI/CD and Kubernetes deployments."
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "education": [
+    {
+      "institution": "University of Sri Jayewardenepura",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor of the Science of Engineering Honours",
+      "startDate": "2022-02",
+      "endDate": "2026-07",
+      "gpa": "3.88/4.00 (First-Class Honours)"
+    },
+    {
+      "institution": "Anula Vidyalaya, Nugegoda",
+      "area": "Combined Mathematics, Chemistry, Physics",
+      "studyType": "G.C.E. Advanced Level",
+      "startDate": "2007-01",
+      "endDate": "2020-08"
+    }
+  ],
+  "skills": [
+    "JavaScript, MERN Stack, Next.js, Python, C++, Java, SQL, MATLAB",
+    "PyTorch, TensorFlow, Keras, OpenCV, YOLOv8, FaceNet, OSNet, scikit-learn, Faster Whisper, ROS 2, Nav2, MoveIt, Flask",
+    "CUDA C, Verilog, 8051 Assembly, Keil uVision, NVIDIA Jetson, FPGA concepts",
+    "Docker, Kubernetes, Git, Linux/Bash, PowerShell"
+  ],
+  "languages": [
+    {
+      "language": "Sinhala",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional"
+    }
+  ],
+  "interests": [
+    "Machine learning",
+    "Computer vision",
+    "Edge AI",
+    "Robotics",
+    "Scientific machine learning"
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "A Comparative Study of Tabular, Geometric, and Lorentz-Aware Models for Higgs Event Classification",
+      "publisher": "MERCon 2025, University of Moratuwa",
+      "releaseDate": "2025",
+      "summary": "Conceptualization, methodology formulation for Lorentz-equivariant transformer architectures, and physics-informed feature engineering using CERN ATLAS Open Data."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
+  "presentations": [],
+  "teaching": [],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "name": "ROS-Based Deep Learning Framework for Elderly Care",
+      "category": "Edge AI and Robotics",
+      "date": "2026",
+      "description": "A distributed ROS 2 framework for elderly care using NVIDIA Jetson, biometric fusion, voice interaction, fall detection, and automated medication dispensing."
+    },
+    {
+      "name": "Sri Lankan Car Price Prediction & Market Analysis System",
+      "category": "Machine Learning",
+      "date": "2025",
+      "description": "A Next.js and Flask dashboard that predicts used-car prices from scraped market data and economic indicators."
     }
   ]
 }
